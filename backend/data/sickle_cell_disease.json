@@ -1,0 +1,1135 @@
+[
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05557201",
+    "title": "Cohort of Patients Presenting Unexplained Recurrent Miscarriages and Identification of Early Miscarriage Recidivism Factors",
+    "status": "RECRUITING",
+    "phase": null,
+    "summary": "About 1 to 3% of women of childbearing age suffer repeated early spontaneous miscarriages (RCF) defined by at least 3 fetal losses before 14 weeks of gestation. RCFs may be linked to parental chromosomal abnormalities, congenital or acquired uterine abnormalities, hormonal causes (e.g. type 1 and 2 diabetes, ovarian failure), infectious etiology, constitutional or acquired thrombophilia or sickle cell disease.\n\nThe presence of antiphospholipid antibodies, antithyroid and anti-transglutaminase antibodies in approximately 10% of cases suggests an autoimmune origin for these fetal losses. The role of other antibodies, in particular non-conventional antiphospholipid antibodies, remains to be established. Indeed half of RCF cases are thought to be due to an immunological dysregulation of the mother leading to a decrease in tolerance to the fetus. Several studies have shown immune abnormalities, such as an imbalance of pro and anti-inflammatory cytokines, an increase in cytotoxic cells and a defect in regulatory cells in the blood of patients. The assessment of these immune abnormalities is not currently performed routinely in France in women presenting with recurrent early miscarriages. When one of these known causes is excluded, it is unexplained RCF which represents 50% of RCF. Over half of these women with RCF may be linked to aneuploidies and primary spontaneous recurrent abortions. Assessing the degree of aneuploidy and the genetic origin of foetal losses remains difficult to date, as examination of the miscarriage product is rarely available, due to the spontaneous nature of the loss.\n\nAn implantation failure (IF) is defined as the absence of pregnancy following the transfer of a good-quality embryo into the uterine cavity. These implantation failures can be due to embryonic factors, maternal factors, or caused by inappropriate stimulation and/or difficult transfers. In the literature, recurrent implantation failure (RIF) is defined as the absence of pregnancy after 3 attempts of transferring good-quality embryos, taking maternal age into account Setting up a prospective cohort of patients with RFC is an essential step in exploring the aetiological factors of RCF and in order to enable better treatment."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05253781",
+    "title": "Low Dose Aspirin for Preventing Intrauterine Growth Restriction and Preeclampsia in Sickle Cell Pregnancy (PIPSICKLE)",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE3"
+    ],
+    "summary": "Pregnancy in sickle cell disease (SCD) is fraught with many complications including preeclampsia (PE) and intrauterine growth restriction (IUGR). Previously, the investigators found an abnormality in prostacyclin-thromboxane ratio in sickle cell pregnant women, a situation that is also found in non-sickle pregnancies with PE and unexplained IUGR. Low dose aspirin (LDA) has been found to reduce the incidence of PE and IUGR in high-risk women due to its reduction of vasoconstrictor thromboxane whilst sparing prostacyclin, in effect \"correcting\" the ratio. It has been found to be safe for use in pregnancy and is recommended in obstetric guidelines for this use but has not been tested in sickle cell pregnancy. The investigators hypothesize that LDA would reduce the incidence of IUGR and PE in pregnant haemoglobin (Hb)SS women. The investigators also plan to build a machine-learning model to predict severe maternal outcomes in them.\n\nThe investigators propose a multi-site, randomized, controlled, double blind trial comparing a daily dose of 100mg aspirin with placebo, from 12 - 28 weeks gestation until 36 weeks. The study sites are three teaching hospitals in Lagos and Ile-Ife, and twelve general hospitals and one federal medical centre within Lagos state, with the coordinating centre at the College of Medicine, University of Lagos (CMUL), Idi-Araba, Lagos. A total of 476 eligible pregnant HbSS and HbSC women will be recruited consecutively and randomly assigned to either group using a web-based app, sealed envelope. Each study group will comprise 238 pregnant women with SCD.\n\nAll participants will be followed from recruitment till six weeks postpartum. They will have their body weight, blood pressure and haematocrit checked at each antenatal visit. Their full blood count, vital signs and oxygen saturation will be checked and recorded at each visit. Primary outcome measure will be birth weight below 10th centile for gestational age on INTERGROWTH 21 birthweight charts, and incidence of miscarriage or perinatal death. Analysis will be by intention to treat, and the main treatment effects will be quantified by relative risk with 95% confidence intervals, at a 5% significance level. The investigators plan to develop a prediction model to predict the risk of complications in these women using machine learning. The prediction outcome will be severe maternal outcomes comprising maternal near miss or death."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00142051",
+    "title": "Inhaled Nitric Oxide for Pediatric Painful Sickle Crisis",
+    "status": "TERMINATED",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "Randomized, double blind placebo controlled clinical trial to evaluate effectiveness and safety of inhaled nitric oxide for the treatment of sickle cell painful crisis in pediatric patients with sickle cell disease."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06497153",
+    "title": "Lung Ultrasound in Pediatric Acute Chest Syndrome",
+    "status": "RECRUITING",
+    "phase": null,
+    "summary": "Sickle-cell disease is a common disease with serious complications, in particular acute chest syndrome (ACS), which can be life threatening. The pathophysiology of ACS is poorly understood, but alveolar hypoventilation appears to play an important role. Pulmonary ultrasound is increasingly used in pediatrics to diagnose ACS. The management of ACS is complex, including oxygen therapy, antibiotics, spirometry, transfusions and ventilatory support. ACS and acute vaso-occlusive pain are the main reasons for hospitalisation in pediatric intensive care units. The aim of this study was to identify the pulmonary indicators correlated with ventilation time in these children, and to study the correlations between the results of lung ultrasound (LUS) and the clinical severity of the episode. The inclusion criteria for this study are the presence of an ACS in a child aged between 1 month and 17 years hospitalised in the pediatric intensive care unit at Robert-Debre Hospital who has not expressed any opposition and without opposition from their legal representative. The study will run for 2 years, with a target of 60 patients. Each patient included in the study will have multiple LUS during their care, in accordance with a protocol, and their clinical, biological and radiological data will be collected during their stay in the department."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT02721472",
+    "title": "Plasma DNA and Vascular Remodelling in Patients With Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "The purpose of this study is to evaluate the relationship between plasma DNA levels and micro- and macro-circulatory vascular remodelling in patients with sickle cell disease"
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05848531",
+    "title": "Clonidine With Morphine in Patient Controlled Analgesia Pump in Vaso-Occlusive Crisis in Sickle Cell Disease Patient",
+    "status": "UNKNOWN",
+    "phase": [
+      "PHASE4"
+    ],
+    "summary": "Vaso-occlusive crisis are highly painful in Sickle-cell patients. Morphine is the treatment of choice for this pain. Various adjuncts have been studied for the treatment of vaso-occlusive crisis.\n\nThe investigators aimed to study the effect of clonidine associated with morphine in PCIA (patient controlled intravenous analgesia pumps) regimen. The investigators will compare it to the morphine alone in PCIA for the treatment of vaso-occlusive pain.\n\nThe investigators will measure the morphine consumption of all patient, the impact on the apparition of the morphine secondary effect and on inflammation biomarkers and the biopsychosocial respond.\n\nEach patient will be hospitalized and follow by haematologist from the hospital, pain doctors and nurses.\n\nIt will be a double blind randomised, prospective study. The randomisation will be done by the pharmacy."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT03763656",
+    "title": "Pharmacokinetics of Oral Hydroxyurea Solution",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "summary": "An open label, safety and pharmacokinetic study of oral hydroxyurea solution administered to children from 6 months to 17.99 years (i.e. to the day before 18th birthday), with a 12 to 15 month treatment period for each participant. The study treatment duration will be for 6 months at the maximum tolerated dose \\[MTD\\], which is usually reached by 6 months after initiation of treatment. For patients in whom time to MTD is longer than 6 months or not achieved at all, the maximum duration of study treatment will be 15 months."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT03421756",
+    "title": "Stem Cell Transplant in Patients With Severe Sickle Cell Disease",
+    "status": "TERMINATED",
+    "phase": [
+      "EARLY_PHASE1"
+    ],
+    "summary": "This is a prospective pilot study of matched-related donor allogeneic stem cell transplantation in adults with severe sickle cell disease using a matched-sibling PBSC graft with a non-myeloablative conditioning regimen (Alemtuzumab)."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00777231",
+    "title": "Phase I/II Pilot Study of Mixed Chimerism to Treat Hemoglobinopathies",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "summary": "The goal of this research study is to establish chimerism and avoid graft-versus-host disease in patients with Hemoglobinopathies to halt disease progression."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT02504619",
+    "title": "Allogeneic SCT of CordIn\u2122, in Patients With Hemoglobinopathies",
+    "status": "TERMINATED",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "summary": "CordIn\u2122 is a cryopreserved stem/progenitor cell-based product of purified CD133+ cells composed of ex vivo expanded allogeneic UCB cells. The overall study objectives are to evaluate the safety and efficacy of CordIn\u2122."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT02709681",
+    "title": "Hydroxyurea in the Treatment of Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "This is a retrospective cohort study of Sickle Cell Disease (SCD) patients attending 32 treatment centers across Italy. The aim of this study will be to report the Italian experience with the use of hydroxyurea in a large cohort of SCD patients and to evaluate the benefits and safety of this intervention for the prevention and management of a wide range of clinical morbidities"
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05098028",
+    "title": "Pharmacokinetics and Pharmacodynamics of Rifaximin Novel Formulations in Patients With Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "This is a randomized, double-blind, placebo-controlled study in sickle cell disease participants with a history of Vaso-occlusive Crises (VOCs). Approximately 60 participants with sickle cell disease will be enrolled and randomized: 12 participants in each of four active novel formulation rifaximin groups and 6 participants in each of 2 placebo groups."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06300723",
+    "title": "Clinical Study of BRL-101 in Severe SCD",
+    "status": "ENROLLING_BY_INVITATION",
+    "phase": [
+      "NA"
+    ],
+    "summary": "This is a single center, non-randomized, open label, single-dose study in subjects with Sickle Cell Disease (SCD). The study will evaluate the safety and efficacy of autologous CRISPR-Cas9 modified CD34+ human hematopoietic stem and progenitor cells (hHSPCs) (BRL-101)."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04983654",
+    "title": "Functional and Mechanistic Characterization of Limb Ulcers in Patients With Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "Sickle Cell Disease is the most frequent genetic disease in the world (representing one birth over 1900, in France). The polymerization of the abnormal hemoglobin (i.e., HbS) when deoxygenated is at the origin of a mechanical distortion of red blood cells (RBC) into a crescent-like shape. Sickled RBCs are very fragile and rigid, which lead patients to have severe anemia and to develop frequent and repeated painful vaso-occlusive crises. Furthermore, the repetition of sickling-unsickling cycles causes irreversible damages to the RBCs, which shorten their half-life. Accumulation of free hemoglobin and heme in the plasma is involved in blood vessels lesions in both the macro- and micro- circulation.\n\nThe resulting vascular dysfunction could explain why limb ulcers are 10 fold more frequent in patients with sickle cell disease compared to the general population and may happen at a younger age. Limb ulcers induce significant morbidity (delay of healing between 9 and 26 weeks in the french cohort), and are associated to significant pain (needing opioid pain-killer) and increase the risk of infection. Cost of care is also increased. Moreover, ulcers induce missed school and work days.\n\nData on cutaneous microcirculation and ulcers physiopathology in patients with sickle cell disease are scarce. We want to realise a microcirculatory and neurological functional study of patients with with and without ulcers and a characterization of biomarkers present in the blood or in the wound fluid which can participate to ulcers physiopathology.\n\nTo ensure healing, adapted therapeutics are essential. Several strategies are proposed such as: lifestyle measures (venous compression, lower limb elevation, rest), dressings, hyperbaric oxygenotherapy (also used in diabetic ulcers). The project is devoted to study the mechanisms involved in leg ulcers and the effects of therapeutical/behavioral strategies."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT02061202",
+    "title": "Inhaled Mometasone to Reduce Painful Episodes in Patients With Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "The proposed research is designed to test the global hypothesis that inhaled corticosteroids (ICS), a therapy developed to treat asthma, will prevent vasoocclusive painful episodes in adults with Sickle Cell Disease (SCD) who wheeze, but do not meet criteria for a diagnosis of asthma. The specific aims of this proposal are 1) Conduct a feasibility study - a randomized controlled trial of ICS for adults with SCD who do not meet criteria for a diagnosis of asthma but report recurrent cough or wheezing, 2) Measure the effects of ICS on biological correlates of pulmonary inflammation (as determined by exhaled nitric oxide) and vascular injury (as determined by sVCAM) in SCD, and 3) Compare properties of traditional and Bayesian adaptive clinical trial design for therapeutic trials in SCD in preparation for designing a definitive trial of ICS. These aims have the potential to 1) change the standard of care for individuals with SCD and recurrent cough or wheeze, 2) provide insight into the pathogenesis of non-asthmatic wheezing in SCD and its response to treatment, 3) explore the suitability of innovative clinical trial designs to overcome the challenges that have hindered therapeutic innovation for SCD."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00001197",
+    "title": "Hydroxyurea for the Treatment of Patients With Sickle Cell Anemia",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "A total of fifty severely affected patients with homozygous sickle cell disease or other sickling disorders (e.g. B negative or B positive Thalassemia/Sickle) who are greater than 18 years of age will be eligible for treatment. Such patients must be able to tolerate an extensive period without blood transfusion and have relatively well preserved renal and hepatic function (creatinine less than 1.5 mg/dl and normal liver function test with exception of a mild elevation in transaminase). Evidence of severe sickle cell anemia will include recurrent pain crisis, chronic bone oain, evidence of aseptic necrosis with symptoms, and intractable leg ulcer, etc.\n\nOn admission to the study, each patient will receive a complete history and physical examination. These data and standard laboratory evaluation, including a test for pregnancy if appropriate, will be adequate to ascertain whether any of the criteria for exclusion are present. Each patient must accept responsibility for for using an effective means of contraception. Patients who are found to be HIV positive will be excluded from the study...."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00860782",
+    "title": "Parent Educational Program for Children With Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "Children with sickle cell disease (SCD) are at risk for central nervous system (CNS) complications, which may affect academic achievement. This study will evaluate an educational support program for parents that aims to improve academic achievement in children with SCD."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00735488",
+    "title": "Sickle Cell Anemia Screening and Prevention in Northern Israel",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "Since 1987, a screening for \u03b2 Thalassemia in pregnant women is carried on in northern Israel, and from 1999 all the samples were tested also for Hgb S, Hgb C, Hgb D, Hgb O Arab and others.\n\nIn this study, the investigators intend to summarize the results of this preventive program aiming to detect couples at risk for having offspring with Thalassemia or SCA, the compliance regard to genetic counseling and prenatal diagnosis and the incidence of new affected babies born."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00035763",
+    "title": "Pain in Sickle Cell Epidemiologic Study",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "To measure the variability in pain and response to pain in sickle cell disease, and to build multivariate models to explain both patients' pain and their response to pain, especially, utilization of health care."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04400487",
+    "title": "Actigraphy Improvement With Voxelotor (ActIVe) Study",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE4"
+    ],
+    "summary": "This is a study to evaluate the effect of voxelotor on daily physical activity and sleep quality, as measured by a wrist-worn device in participants with sickle cell disease (SCD) and chronic moderate anemia."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04918355",
+    "title": "A Health System Wide Evaluation of Clinical Decision Support Tools to Improve PDMP Utilization and Patient Outcomes",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "This is a study comparing three clinical decision support (CDS) tools to enhance care by easing health care provider review of the Colorado prescription drug monitoring program (PDMP) prior to prescribing opioids (pain medications often called narcotics) or benzodiazepines (sedatives or muscle relaxants). The tools screen information from the PDMP (a statewide database of filled controlled medication) and a patient's medical record to identify high-risk factors for overdose.\n\nThe tools only appear when relevant, are purely informational to facilitate an evidence-based practice (PDMP review) and do not dictate care or suggest changes in treatment.\n\nThe study will track how each of the tools are used and if providers use the PDMP. Secondary outcomes include if a controlled medication prescription was written and future opioid use by patients."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT02560935",
+    "title": "Primary Prevention of Stroke in Children With SCD in Sub-Saharan Africa II",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE3"
+    ],
+    "summary": "The overall goal of this proposal is to conduct a partial double-blind randomized Phase III clinical trial for primary stroke prevention in children with sickle cell anemia (SCA) in sub-Saharan Africa."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00998803",
+    "title": "Surveillance of Influenza Virus Shedding and Immunologic Response in Immunocompromised Children and Young Adults",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "Influenza virus infections are a major cause of morbidity and mortality. The limited existing knowledge about the impact of influenza in immunocompromised patients suggests that they are at increased risk of influenza virus acquisition, of developing complications and of prolonged illness and viral shedding. However, some other data about the effect of antiviral agents on the infection course, and risk of resistance in immunocompromised children are lacking. The emergence of the pandemic H1N1 swine-origin influenza A virus has generated an additional need to study the epidemiology, clinical course and outcome of influenza infections in immunocompromised children. This study proposed to conduct a prospective observational clinical study to answer these questions."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT03488264",
+    "title": "Stigma, Self-management, & Quality of Life in SCD",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "Many individuals with sickle cell disease experience both a poor quality of life and stigma. Individuals with SCD often experience high levels of stigma which can be a barrier to good self-management and hinder quality of life. The purpose of this research is to improve understanding of the relationships between stigma, self-management, and quality of life in SCD in the United States and Jamaica. The findings from this project will contribute to the development of a tool to measure self-management strategies and will also guide the development of interventions to improve SCD self-management."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT01282021",
+    "title": "Molecular Immunohematology in Ethiopian Sub-Populations",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "Alloimmunization to blood products in transfused patients is a recognized management challenge in the clinical setting. In particular the ethnic and racial specificity of RBC antigens and the limited availability of matched healthy volunteer blood donors have intensified the dilemma. The presence of low prevalence clinically significant RBC antigens among minorities account for the higher rate of alloimmunization observed in patients from this group. This is partly due to the racial and ethnic differences between the blood donor and recipient populations in the U.S.\n\nThe increasing number of new Ethiopian-American immigrants in the US presenting to the health care system with blood transfusion requirements makes understanding the unique transfusion needs of this minority population imperative. Although the majority of African Americans claim origin to West Africa, Ethiopians, being from East Africa, represent a rapidly growing population in the United States. Furthermore, identifying genetic similarities and disparities to their West African counterparts will certainly have clinical implications in terms of transfusion support and disease modifiers. This additional information would help in understanding the natural history and transfusion requirements of certain debilitating diseases, such as Sickle Cell Disease (SCD), which are known to occur more commonly in African Americans. Identifying ethnically and racially similar individuals could assist in recruiting healthy volunteer donors with similar RBC antigen profiles potentially supplementing the rare donor pool.\n\nAlthough extensive archeological and sporadic serologic RBC antigen studies have been conducted in Ethiopia, there are no population wide RBC antigen molecular studies. Our study population is selected by altitude and migration history. Ethiopia, being in close proximity to the Red Sea in the northeast, Indian Ocean in the southeast and the rest of Africa in the south/west has diverse population.\n\nThe study is a population based analysis of genetic variation of blood group antigens in three distinct and conserved Ethiopian sub-populations. Statistical analysis using Chi-square tests will be performed for each blood group antigen to detect differences in the distribution between the three sub-populations. The The Lead Associate Investigator (LAI), and, as appropriate, additional Investigators, will travel to Ethiopia to collect blood samples, which will be analyzed in the Department of Transfusion Medicine (DTM) at the National Institutes of Health (NIH) using the standard serologic methods and currently available molecular genotyping systems. Samples will also be stored for future high throughput sequencing analysis and other studies.\n\nThe study will be a systematic analysis of the distribution of blood group antigens in Ethiopian sub-populations. Furthermore, new variants could be detected allowing insight into the correlation of particular genotypes and phenotypes."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00434902",
+    "title": "Evaluation of the Prevalence of Pulmonary Hypertension in Adult Patients With Sickle Cell Disease",
+    "status": "UNKNOWN",
+    "phase": null,
+    "summary": "Recent data show that pulmonary hypertension (PH), defined by a tricuspid regurgitation jet (TRJ) velocity \\> or equal at 2.5m/s on Doppler echocardiography, is present in about 30% of adults with sickle cell disease (SCD) and is associated with poor prognosis. However in SCD the occurrence of PH (defined by mean pulmonary arterial pressure (mPAP)\\> or equal at 25 mmHg) is related to at least 3 mechanisms: PH due to hyperkinetic state with high cardiac output (CO) but normal pulmonary vascular resistance (PVR \\<160 dynes), or postcapillary PH (pulmonary capillary wedge pressure PCWP \\>15 mmHg), or precapillary pulmonary arterial hypertension (PAH) defined by mPAP \\> or equal at 25 mmHg, PCWP\\< or equal at 15 mmHg and PVR \\> or equal at 160 dynes.The aim of this study is to evaluate in a French population of adults with sickle cell disease the characteristics, prevalence and prognosis of pulmonary hypertension."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05725902",
+    "title": "Study of the Effect of Etavopivat on Cerebral Hemodynamic Response in Children With Sickle Cell Disease",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "An open-label, single arm study in patients 12 to 21 years of age with SCD to evaluate the effects of etavopivat on cerebral and muscle hemodynamics."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT02372877",
+    "title": "Evaluation of the AMICUS RBCx System in Sickle Cell Patients",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "The purpose of this study is to evaluate the performance of the AMICUS Red Blood Cell Exchange (RBCx) System (Exchange and Depletion/Exchange procedures) in patients with sickle cell disease."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT01932554",
+    "title": "Abciximab (ReoPro) as a Therapeutic Intervention for Sickle Cell Vaso-Occlusive Pain Crisis",
+    "status": "WITHDRAWN",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "The purpose of this study is to determine whether giving abciximab (ReoPro) to children with sickle cell disease who are hospitalized for acute pain crisis will improve their pain and shorten the time spent in the hospital, when compared with standard supportive care."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06975865",
+    "title": "The Efficacy and Safety of Rilzabrutinib in Patients Aged 10 to 65 Years With Sickle-cell Disease",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE3"
+    ],
+    "summary": "This is a multicenter, randomized, double-blind, placebo-controlled, parallel-group, group-sequential study (Part A), followed by an open-label LTE period (Part B) to investigate the efficacy, and safety of rilzabrutinib in participants with sickle-cell disease (SCD).\n\nStudy details include:\n\n* Study duration: a 52-week double-blind period (Part A), followed by an open-label LTE period (Part B). Double-blind period has two parts, 50% (adult only) until the interim analysis (a proof-concept part analogous to a phase 2b study), and 50% (adult and children) after the interim analysis. Only the participants who complete double-blind treatment period (Part A) are eligible to continue to the LTE period. The duration of the LTE period (Part B) will be from the first-participant-in (FPI)-LTE (Part B) until the last participant who enters the LTE has completed 52 weeks.\n* Treatment duration: 52-week double-blind period (Part A); LTE period (Part B) from the (FPI until the last participant who enters the LTE has completed 52 weeks.\n* Visit frequency: Week visits based on the Schedule of Assessments."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT01441375",
+    "title": "Sickle Cell Disease: A Retrospective Chart Review",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "This study is a retrospective chart review of sickle cell patients and will include patients whom have received blood transfusions and those whom have not. Of the transfused patients, it will also include those whom have received chelation therapy and those whom have not."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT02197845",
+    "title": "Enhancing Use of Hydroxyurea In Sickle Cell Disease Using Patient Navigators",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "Multi-phase, patient navigator-based program in the Richmond and Tidewater regions of Virginia to demonstrate:\n\n1. the feasibility of using patient navigators to improve the percentage of children and adult (age 15 and older) patients with sickle cell disease (SCD) in SCD specialty care\n2. the efficacy of using patient navigators to improve hydroxyurea (HU) (re-)initiation and adherence among adult patients with SCD eligible for HU\n\n(Patient navigators may also be known as public health workers.)"
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT03296345",
+    "title": "Adjuvant Low-dose Ketamine in Pediatric Sickle Cell Vaso-occlusive Crisis",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "Acute vaso-occlusive episodes (VOEs) in sickle cell disease (SCD) are primarily managed with opioids. Tolerance and hyperalgesia to opioids develops due to N-methyl-D-aspartate (NMDA)-receptor mediated activation of the nociceptive system, and as a receptor antagonist, ketamine mitigates this. Intravenous (IV) ketamine has demonstrated efficacy in reducing post-operative, chronic, and cancer-related pain in pediatrics, as well as in reducing time to pain control in the emergency department (ED) in adults. Limited studies suggest efficacy in adult opioid-refractory SCD patients. This study is investigating the safety and tolerability of adjuvant low-dose IV ketamine bolus for pediatric SCD VOE in the ED, as well as its efficacy in improving pain control and reducing hospitalization."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT02187445",
+    "title": "Inhaled Corticosteroid Use to Prevent Acute Chest Syndrome Recurrence in Children Between 1 and 4 With Sickle Cell Disease: a Feasibility Trial",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE1"
+    ],
+    "summary": "Acute and chronic pulmonary complications with concomitant inflammatory response are a leading cause of morbidity and mortality in children with sickle cell disease (SCD). Acute chest syndrome (ACS), defined broadly as an increase in respiratory effort, fever and new radiodensity on chest x-ray, is a major cause of death in children and adults with SCD. There is a high rate of ACS in children between 1 and 4 years of age that is associated with an asthma diagnosis, and children with ACS events before 4 years of age have a 50% rate of being hospitalized for either ACS or pain within 1 year of admission. For children with SCD that develop ACS, the investigators propose that the use of budesonide inhalation suspension (BIS) will attenuate pulmonary inflammation after an ACS episode and will decrease future vaso-occlusive pain and ACS episodes. Through a single-arm prospective feasibility trial and in preparation for a limited-institution randomized trial, the investigators plan to test the following primary hypothesis for a phase III definitive trial: In children with SCD admitted to the hospital for an ACS episode between 1 and 4 years of age, low dose BIS for 6 months will result in a 50% reduction in the recurrent incidence rate of ACS or pain requiring hospitalization. Through this trial, the investigators will determine the acceptability of and adherence to BIS in the study population. The investigators will track respiratory symptoms in cases versus controls over 6 months. Finally, the investigators will explore the impact of BIS on biological correlates (sVCAM-1)."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04662931",
+    "title": "An Indian Multi-centric Phase IV Study to Assess the Safety of Crizanlizumab in Sickle Cell Disease Patients",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE4"
+    ],
+    "summary": "Sickle cell disease (SCD) is a genetic blood disorder. Crizanlizumab is indicated to reduce the frequency of vaso-occlusive crises (VOCs) in patients with SCD aged 16 years and older.\n\nThe purpose of this local Phase IV study was to evaluate the safety of crizanlizumab specifically in Indian patients with SCD aged 16 years or older with a history of VOC leading to healthcare visit."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT01041339",
+    "title": "ST Elevation in Acute Chest Pain; Could Measurement of Lipoprotein-associated Phospholipase A2 (Lp-PLA2) be Helpful to the Clinician?",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "A blood test (2-3 cc peripheral venous blood) drawn /used from already available required lab tests to distinguish between pericarditis accompanied with electrocardiogram (ECG) signs mimicking infarction. A test of clinical potential if proven to be able to support either origin of acute chest pain etiology."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05564845",
+    "title": "Brain Structure and Neurocognitive Development in Sickle Cell Disease; a Longitudinal Cohort Study (BRICK Study)",
+    "status": "UNKNOWN",
+    "phase": null,
+    "summary": "Sickle cell disease (SCD) is an autosomal recessive red blood cell blood disorder. One especially vital organ affected in SCD is the brain. Individuals with SCD have an increased risk of both overt cerebral infarctions and silent infarctions. The latter are brain lesions without apparent neurological sequelae. Since cortical neurons in the brain lack the ability to regenerate, tissue damage accumulates throughout the already shortened lifespan of individuals with SCD, resulting in far-reaching consequences such as significant cognitive impairment. Currently, only hematological stem cell transplantation can halt the multiorgan tissue damage. However, the criteria to determine the timing of curative therapy do not center the brain, despite that subtle anomalies of this critical organ can have long-lasting consequences. Since it is not yet known whether brain tissue damage precedes, parallels, or lags behind non-brain tissue damage, it is critical to map these effects in youth with SCD. While importantly comparing images with a healthy reference population. Understanding how the brain is affected is critical for clinical decision making, such as timing of potentially curative interventions but also, to prevent long term irreversible brain damage in youth with SCD. In this study, a cohort of 84 SCD patients between the ages of 6 and 18 at baseline, will undergo MR imaging, neurological examination, neuropsychological assessment and blood sampling three times in total, with intervals of two years; results will be innovatively compared with children included in the Generation R population study (\u00b18000 MRIs children and (young)adults) 6-20 years of age). Our hypothesis, based on the inability of the brain to generate new cortical neurons following cell death, is that brain function is impaired earlier than other organ systems and that there is an age-dependent limit in the brain's ability to remodel itself based on neuroplasticity."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT02212535",
+    "title": "Assessment of Tolerance of Mobilizing Peripheral Hematopoietic Stem Cells by Plerixafor in Sickle Cell Patients",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "summary": "The purpose of this study is to assess the tolerance and efficacy of mobilizing hematopoietic stem cells after a single injection of plerixafor (0.24mg/kg) in 3 adult patients (or 5, if results of the first 3 patients are not reproducible) affected by sickle cell disease."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05494541",
+    "title": "Characteristics of Patients With Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "This was a retrospective descriptive analysis of health care claims data using the IQVIA open source medical and pharmacy claims databases."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT02065596",
+    "title": "Hematopoietic Stem Cell Transplant for Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE1"
+    ],
+    "summary": "This is a study of patients with sickle cell disease. It aims to find out if people with sickle cell disease can be cured by changing their immune system before they have blood stem cell transplants. Doctors will give patients a new drug (fludarabine) to see if this drug changes patients immune system and reduces the patient's cells (host) from rejecting donor cells (graft) after the patient gets a Hematopoietic (blood) stem cell transplant."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00850369",
+    "title": "A Pilot Study of Chronic Red Blood Cell Transfusion in Sickle Cell Disease-Associated Pulmonary Hypertension",
+    "status": "WITHDRAWN",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "Pulmonary hypertension, a complication associated with an increased risk of death, is common in patients with sickle cell disease. Despite its frequency, there remains no standard treatment for this complication in patients with sickle cell disease.\n\nIn this small study, the investigators will evaluate the effect of monthly transfusion of red blood cells to patients with sickle cell disease-associated pulmonary hypertension. The investigators speculate that by increasing the hemoglobin level and decreasing the amount of sickle red blood cells, these patients would experience improvements in their PHT."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06252103",
+    "title": "Lactoferrin With Ferrous Gluconate Versus Ferrous Gluconate in Treatment of Iron Deficiency Anemia During Pregnancy",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE4"
+    ],
+    "summary": "Study Procedures:\n\nAll patients will undergo the following:\n\nInformed consent will be obtained from all the participants in this study before enrolling in this study and all participants will be subjected to a detailed clinical assessment including: a detailed history, general, abdominal examinations, Investigations.\n\n1. History taking:\n\n   * Personal history: name, age, occupation and address.\n   * Menstrual and obstetric history: Date of LMP, expected date of delivery which will be calculated according to Naegle's rule and gestational age. In addition to history of presence of any menstrual irregularities, duration.\n   * Past History: of Anemia in previous pregnancy, other diseases like Thalassemia, sickle cell anemia, liver or renal diseases or any other condition that may affect hemoglobin.\n2. Medical examination:\n\n   * General: Assessment of complexion and vital data (blood pressure, pulse, capillary refill)\n   * Abdominal examination to assess fundal height.\n3. Investigations to perform will include:\n\nLaboratory: Complete blood count (microcytic hypochromic anemia) Imaging: Ultrasound to assess biometry to exclude fetal growth restriction. Women will be divided in two groups with 20 in each group, the first group will receive one tab of ferrous gluconate 300mg administered orally twice per day for 4 weeks and the second group will receive lactoferrin sachets 100mg with ferrous gluconate 300mg twice per day for 4 weeks Patients were assigned to take the medication orally; once daily before breakfast, and Pravotin (100 sachets were be dissolved each in \u00bc glass of water and taken before breakfast). Patients were advised to avoid the intake of tea, coffee, milk, milk products, antacids and calcium preparation within 2 hours before or after iron capsules.\n\nWomen will be told to record side effects as nausea, vomiting, abdominal discomfort and constipation.\n\nWomen will have a blood sample (CBC) withdrawn after 2 to 4 weeks to assess rise in pregnant anemia."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT02237586",
+    "title": "Effect of Plasmodium Falciparum Exposure and Sickle Cell Trait on Infection Rates and Kinetics After IV Administration of PfSPZ Challenge",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE1"
+    ],
+    "summary": "The study is designed to establish infectivity of Plasmodium falciparum sporozoites (PfSPZ) via intravenous (IV) administration in three groups with different malaria immunity-status:\n\n1. Adults with a history of lifelong malaria exposure without sickle cell trait (HbAA)\n2. Adults with a history of lifelong malaria exposure with sickle cell trait (HbAS)\n3. Adults without previous malaria episodes without sickle cell trait (HbAA)\n\nInitially a dose of 3,200 PfSPZ will be given and the time until thick blood smear positivity after challenge will be assessed. If in any of the groups with a history of lifelong malaria exposure, 50% or less of individuals become thick blood smear positive during the 28 days post injection of PfSPZ Challenge, the dose will be increased 4-fold to 12,800 PfSPZ in this group."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06813924",
+    "title": "A Research Study of the Effect of Etavopivat on Other Drugs in Healthy Participants",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE1"
+    ],
+    "summary": "The study aims to test if a new medicine called etavopivat potentially affects other medicines in healthy participants. The purpose of the study is to investigate whether the use of etavopivat affects the breakdown and metabolism of commonly used medicines in the body. During the study, participants will receive etavopivat and five different medicines that are already approved and available on the market, and which can be prescribed by doctors. These marketed medicines are called substrate drugs and they are: digoxin, pitavastatin, metformin, midazolam, and rosuvastatin. During a period of the study, participants will take 2 tablets of etavopivat daily for 10 consecutive days. The study will last for about 34 to 64 days."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT03753854",
+    "title": "Sleep Apnea in Sickle Cell Disease",
+    "status": "TERMINATED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "Despite the fact that obstructive sleep apnoea (OSA) is highly prevalent in the sickle cell population, studies focusing on the associations of the two diseases and their common pathophysiological mechanisms are scarce. OSA is one of the most common conditions responsible for hemoglobin desaturation. The nocturnal hemoglobin desaturation occurring in some sickle cell disease (SCD) patients with OSA could trigger hemoglobin S polymerization and red blood cell (RBC) sickling, leading to further blood rheological alterations, hence increasing the risks for VOC. Moreover, OSA has been demonstrated to increase oxidative stress and inflammation in non Sickle Cell Disease (SCD) patients, which, in SCD patients, could increase the risk for complications. Finally, OSA is accompanied by impaired vascular function and autonomic nervous system dysfunction in the general population. Indeed, the presence of OSA in SCD could increase the clinical severity of patients and the frequency of VOC."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04708327",
+    "title": "Single-Blind Study of STAT-205 in Mild COVID-19",
+    "status": "UNKNOWN",
+    "phase": [
+      "PHASE1"
+    ],
+    "summary": "This is a randomized, single blind, study. Males and females meeting inclusion criteria who have symptoms of mild COVID-19 and in whom a positive PCR result for SARS-CoV-2 is obtained may be enrolled to the study treatment within 72 hours of the positive PCR result. Eligible patients are those considered to be at high risk for COVID-19 disease progression. This includes patients \u2265 65 years of age or with any one or more of certain medical conditions including: cancer, COPD, cardiovascular disease, immunocompromised state resulting from solid organ transplant, obesity, sickle cell disease, history of smoking, and diabetes."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06385886",
+    "title": "Recruitment and Engagement in Care to Impact Practice Enhancement (RECIPE) for Sickle Cell Disease",
+    "status": "RECRUITING",
+    "phase": null,
+    "summary": "The goal of this observational study is to help us understand more about the best ways to help individuals living with Sickle Cell Disease (SCD) get the best care. The main question it aims to answer is: How to find individuals unaffiliated from SCD specialist care use three distinct pathways? Once unaffiliated individuals are found using the pathways, Investigators will employ linkage coordinators (trained staff) to engage these patients in care. Participants will be asked to fill out an assessment survey which will cover areas such as previous and current treatment, clinic and hospital experience, pain, and quality of life. Participants will also be given the option of participation in a 1-hour long interview how they feel about treatment for sickle cell disease including clinic experience, pain, and quality of life?"
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00263562",
+    "title": "Steroid Treatment for Sickle Cell Pain Crisis",
+    "status": "TERMINATED",
+    "phase": [
+      "PHASE3"
+    ],
+    "summary": "The painful episode is the most common problem experienced by children with sickle cell disease. Although various treatments are available during painful episodes, the medication most commonly given for pain is a pain medication such as morphine. Fluids are also used. Even with these treatments, many children still have severe pain that is difficult to control. In addition to pain medications, there are other medications that may be useful. Methylprednisolone (solumedrol) and prednisone are a group of medications called steroids that may be helpful for painful episodes. These medications are known to lower the amount of inflammation (this means swelling, tenderness, and soreness) in the body. Because this medication may help with your pain, you are being asked to be a part of this study. These types of medications are used in other illnesses such as asthma, especially during times when the illness has gotten worse.\n\nThe main purpose of this study is to see if the methylprednisolone and prednisone will lower the amount of pain and the length of hospital stay.\n\nIn addition to the pain medication you will normally receive, you will be assigned to one of 2 groups: 1) the experimental group with the active form of the medicine, or 2) a comparison group without the active form of the medicine. In either group, you will still receive all of the treatments you would normally receive for a painful episode, including pain medicines and fluids. You and your doctors will not know what group you will be assigned.\n\nIf you decide to be a part of the study the following will happen:\n\nFor the first 5 days, you will be asked to: 1) describe your current pain (0=no pain to 10=a lot of pain), worst pain (0=no pain to 10=a lot of pain), least pain (0=no pain to 10=a lot of pain), and the amount of pain relief (0=no relief to 10=complete relief); 2) describe any signs or symptoms you feel, including filling out a pain scale form each day; 3) and take the medicines for 5 days, either at home or when in the hospital. Thirty days after the study, a study researcher will call and will ask questions about your pain, any painful episodes, and any medications you had. If you are discharged home sooner than 5 days after the start of the study, research staff will call you to ask you these questions, remind you to fill out your pain forms, and remind you to take your medicine. If you are discharged home, you will be given pain scales to fill out each day at home."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06546670",
+    "title": "A Phase I/II Study of ITU512 in Healthy Participants and Patients With Sickle Cell Disease",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "summary": "The purpose of this study is to evaluate the safety, tolerability, pharmacokinetics (PK), and preliminary food effect of ITU512 as well as the fetal hemoglobin (HbF)-inducing capacity of ITU512. This will be the first evaluation of the potential therapeutic effect of ITU512 in healthy participants and patients with sickle cell disease (SCD)."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06924970",
+    "title": "A Dose-Finding Study of Tebapivat to Assess Efficacy, and Safety in Participants With Sickle Cell Disease (SCD)",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "The main purpose of this study is to compare the effect of tebapivat versus placebo on anemia and to detect a dose-response for hemoglobin (Hb) response in participants with SCD."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT02179359",
+    "title": "Hematopoietic Stem Cell Transplant for High Risk Hemoglobinopathies",
+    "status": "TERMINATED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "This is a study to collect the outcomes of stem cell transplantation for patients with hematologic diseases other than cancer."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05031780",
+    "title": "A Study Evaluating the Efficacy and Safety of Mitapivat (AG-348) in Participants With Sickle Cell Disease (RISE UP)",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "PHASE2",
+      "PHASE3"
+    ],
+    "summary": "This clinical trial is a Phase 2/3 study that will determine the recommended dose of mitapivat and evaluate the efficacy and safety of mitapivat in sickle cell disease by testing how well mitapivat works compared to placebo to increase the amount of hemoglobin in the blood and to reduce or prevent the occurrence of sickle cell pain crises. In addition, the long-term effect of mitapivat on efficacy and safety will be explored in an open-label extension portion."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04181944",
+    "title": "Qualitative Survey of Potential Exercise Activity in Adults With Sickle Cell Anemia (SCA)",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "The purpose of this study is to assess the potential interventions of exercises in adults with sickle cell anemia (SCA) and cardiopulmonary disease; only including the more severe genotypes of sickle cell disease."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT02578017",
+    "title": "ElectroNic Hydroxyurea AdhereNCE: A Strategy to Improve Hydroxyurea Adherence in Patients With Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "HU is an FDA approved medication for the treatment of SCD. Many studies have shown that HU can reduce SCD related symptoms, but only 50% of patients take it as often as they should. This limits how much HU can help reduce SCD symptoms.\n\nResearchers are interested to see if electronic directly observed therapy (Mobile DOT), a program that uses cell phone reminder messages, videos, feedback messages, and incentives will help patients with SCD take HU as prescribed."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05210114",
+    "title": "Cutaneous Hydration Assessment in SCD",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "summary": "This study will validate the diagnostic accuracy of a cutaneous hydration sensor. This sensor will also be evaluated for its feasibility as a point-of-care device for the assessment of hydration status and its potential to guide hydration therapy in patients with sickle cell disease (SCD)."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00174538",
+    "title": "Codeine in Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "summary": "The objective of this study is to determine if a subject's genetic make-up would affect the treatment response to codeine in subjects with sickle cell disease."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00257543",
+    "title": "SALT: Alternative Donor Bone Marrow and Cord Blood Transplantation for High Risk Sickle Cell Disease",
+    "status": "TERMINATED",
+    "phase": [
+      "EARLY_PHASE1"
+    ],
+    "summary": "We hope to gain valuable information about the safety, success of engraftment, and rates of complications using alternate donor transplantation for children with severe SCD. Crucial information will be also collected about late effects from alternate donor BMT sickle cell, providing valuable information to clinicians and families making decisions among interventions for children with severe sickle cell disease. If successful, alternate donor transplantation in this setting could pave the way to offering curative treatment to many more patients with severe SCD."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00006182",
+    "title": "Stroke Prevention in Sickle Cell Anemia (STOP 2)",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE3"
+    ],
+    "summary": "To determine how long blood transfusions are needed for primary stroke prevention. Also, to determine the duration of risk associated with abnormal transcranial Doppler ultrasound (TCD) and to determine the specificity of the stroke risk model developed in STOP 1 in patients with abnormal TCD measurements."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT03247218",
+    "title": "A Phase - IIa - IIb, Trial to Study the Safety, Tolerability and Efficacy of Memantine as a Long-term Treatment of SCD",
+    "status": "UNKNOWN",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "Symptomatic sickle cell disease (SCD) is worldwide the most frequent cause for hereditary hemolytic anemia with recurrent pain crises. Hemolysis, vaso- occlusive and pain crises are hallmarks of this disease and are causative for an important socio-economic burden worldwide, especially in Africa.\n\nAside from allogenic stem cell transplantation, which is rarely available and very expensive, at present there is no curative treatment for patients with SCD. The current standard of care includes treatment with Hydroxyurea and symptomatic care such as transfusions, antibiotic/analgesic treatment. Recent findings allowed the investigators to come up with a novel pharmacological target for prophylactic treatment of this group of patients. The investigators showed that N-methyl D-aspartate receptors (NMDARs) are substantially up-regulated in circulating red blood cells (RBCs) of SCD patients. Ca2+ uptake via these non-selective cation channels has major impact on RBC hydration and facilitates polymerization of deoxygenated hemoglobin S variant in RBCs of patients. In vitro observations shows that inhibition of NMDARs with Memantine caused re-hydration and largely prevented hypoxia-induced sickling in RBCs. A pilot trial MemSID (NCT02615847) was conducted in August 2015-March 2017 at the Hematology Division of University Hospital Zurich. A small cohort of adult SCD patients was treated with 20 mg Memantine daily to test safety, tolerability and efficacy of this drug and to assess the effect of Memantine on hemolytic activity and RBC stability. Pilot data reveal safety and an impressive therapeutic potential of Memantine in treating SCD patients. Due to a small number of SCD patients in Switzerland, an extended trial including larger number of adult and adolescent patients will be performed at the Pediatric Hematology Unit of the Emek Medical Center in Afula, Israel"
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00402480",
+    "title": "Hydroxyurea to Prevent Stroke in Children With Sickle Cell Anemia and Elevated TCD Flow Velocity",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "The purpose of this study is to assess prospectively the efficacy of hydroxyurea therapy in the setting of cerebrovascular disease, manifest as conditional or abnormal transcranial doppler ultrasonography (TCD) flow velocities, in children with sickle cell anemia (SCA). TCD is used to measure flow velocity in intracranial arteries as a marker of increased stroke risk in children with SCA. The primary objective of this protocol is to determine whether hydroxyurea reduces elevated TCD velocity."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06145282",
+    "title": "Non-myeloablative Haploidentical HCT Study for Patients With Sickle Cell Disease, Including Compromised Organ Function",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "summary": "Background:\n\nSickle cell disease (SCD) is a genetic disorder where red blood cells, that carry oxygen, are stiff and become stuck in small blood vessels. As a result, affected patients can experience severe pain and serious organ damage. SCD can be cured with a hematopoietic cell transplant (HCT), that is, when they receive blood stem cells from a family donor. But HCT can also have serious side effects, especially in people with organ damage. Researchers want to find ways to make HCT safer for everyone.\n\nObjective:\n\nTo test a new combination of drugs (briquilimab, abatacept, and alemtuzumab), used along with radiation, in people undergoing HCT for SCD.\n\nEligibility:\n\nPeople aged 16 and older with SCD. They must be eligible for HCT and have a family member who is a good donor match. Donors must be aged 4 and older.\n\nDesign:\n\nParticipants with SCD will be screened. They will have blood tests and tests of organs including their heart and lung function. Donors will have blood drawn.\n\nParticipants with SCD will have a tube inserted into a blood vessel in their chest (intravenously). This line will remain in place up to 2 months; it will be used to draw blood and administer the donor cells and other medications.\n\nBriquilimab will be administered intravenously 1 time, along with other drugs used to prepare for HCT. Participants will receive abatacept 6 times, from just before they receive their donor cells until 6 months after. Participants will undergo radiation therapy and take other drugs that are standard for HCT. Most HCT recipients remain in the hospital for about 30 days after HCT.\n\nFollow-up visits will continue for 5 years...."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT03938324",
+    "title": "Peer i-Coaching for Activated Self-Management Optimization in Adolescents and Young Adults With Chronic Conditions",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "The purpose of this study is to test the efficacy of a peer support coaching intervention to improve activated chronic illness self-management versus an attention control group in 225 adolescents and young adults with childhood onset chronic conditions."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT01245179",
+    "title": "Study of Panobinostat (LBH589) in Patients With Sickle Cell Disease",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE1"
+    ],
+    "summary": "The goal of this clinical research study is to find out about the safety and effects of a drug called panobinostat when given to adults with sickle cell disease. Panobinostat is a pan histone deacetylase (HDAC) inhibitor. HDAC inhibitors have been shown to significantly increase hemoglobin F induction, which is well documented to improve outcomes in sickle cell disease. HDAC inhibitors are also known to potently inhibit cell-specific inflammation, which is a primary contributor to the debilitating effects of sickle cell disease. Given the relevance of these mechanisms of action in SCD, panobinostat may prove to contribute significantly to the management of SCD patients, a population in critical need of further effective treatment options."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00061568",
+    "title": "Improving the Results of Bone Marrow Transplantation for Patients With Severe Congenital Anemias",
+    "status": "UNKNOWN",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "summary": "People with severe congenital anemias, such as sickle cell anemia and beta-thalassemia, have been cured with bone marrow transplantation (BMT). The procedure, however, is limited to children younger than the age of 16 because the risks are lower for children than for adults.\n\nThe purpose of this study is to explore the use of a BMT regimen that, instead of chemotherapy, uses a low dose of radiation, combined with two immunosuppressive drugs. This type BMT procedure is described as nonmyeloablative, meaning that it does not destroy the patient s bone marrow. It is hoped that this type of BMT will be safe for patients normally excluded from the procedure because of their age and other reasons.\n\nTo participate in this study, patients must be between the ages of 18 and 65 and have a sibling who is a well-matched stem-cell donor. Beyond the standard BMT protocol, study participants will undergo additional procedures. The donor will receive G-CSF by injection for five days; then his or her stem cells will be collected and frozen one month prior to BMT. Approximately one month later, the patient will be given two immune-suppressing drugs, Campath 1-H and Sirolimus, as well as a single low dose of total body irradiation and then the cells from the donor will be infused.\n\nPrior to their participation in this study, patients will undergo the following evaluations: a physical exam, blood work, breathing tests, heart-function tests, chest and sinus x-rays, and bone-marrow sampling.\n\n..."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT03201874",
+    "title": "iCanCope With Sickle Cell Pain",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "The project will test a tailored web and smartphone-based application (iCanCope with SCD) to improve pain self-management and functioning in youth (aged 12-18) with sickle cell disease. The program will include goal setting, peer-based social support, and pain self-management training. The investigators will determine initial program effectiveness through a pilot three-site randomized controlled trial in 160 youth randomized to treatment compared to attention control."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT01758250",
+    "title": "Microvascular and Fibrosis Imaging Study",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "In this study, Laser Doppler Flowmetry (LDF), Laser Doppler Imaging (LDI), Orthogonal Polarization Spectral Imaging (OPSI), Nail fold video capillaroscopy (NVC) and Optical Coherence Tomography (OCT) will be used to assess differences in microvascular function and density of oral mucosa and skin in subjects with 1) autoimmune diseases with cutaneous involvement: systemic sclerosis (SSc), morphea, dermatomyositis, cutaneous lupus and vasculitis, 2) sickle cell disease (SCD) and 3) chronic graft-versus-host disease (GVHD) compared to healthy subjects. The microvascular changes will be compared to overall treatment response in patients with scleroderma and chronic GVHD as assessments will be made before and after the patients start treatment for their diseases and determine if these imaging techniques provide valuable and reproducible data when assessing a patient's response to treatment for those diseases. In addition, the application of Acoustic Radiation Force Impulse (ARFI) in determining cutaneous thickness in patients with SSc, GVHD and morphea will be evaluated.\n\nThe investigators hypothesize that the vascular and dermal structures are altered in patients with autoimmune disease, SCD and chronic GVHD. In addition, they hypothesize that imaging modalities such as LDF, LDI, OCT, NVC, OPSI and ARFI can quantify such structural alterations and can be used to 1) detect early disease activity, 2) quantify and assess response to therapy and 3) quantify and correlate with overall disease activity."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00102791",
+    "title": "A Stratified Sickle Event Randomized Trial (ASSERT)",
+    "status": "TERMINATED",
+    "phase": [
+      "PHASE3"
+    ],
+    "summary": "The purpose of this study is to compare the effects of ICA-17043 to placebo with or without hydroxyurea (an oral drug used for treatment of sickle cell disease) in patients with sickle cell disease who have had 2 or more acute sickle-related painful crises requiring a visit to a medical facility within the past 12 months."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05203991",
+    "title": "Avascular Bone Necrosis in Sickle Cell Disease: a Pediatric Study.",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "Avascular necrosis (AVN) is a serious complication of sickle cell disease, especially in pediatric patients where the prevalence is between 3% and 8% and are more frequent in patients with multiple vaso-occlusive crisis (VOC). The prevalence of AVN is usually made by a study of the hip through radiography, whereas other possible sites of ischemic infarcts are evaluated only in case of specific symptoms. In addition, bone infarcts may be the trigger for additional VOC.\n\nIn this study, we want to investigate the presence of possible bone lesions even in asymptomatic or paucisymptomatic children.\n\nThis is a prospective interventional and monocentric study whose objective is to describe the prevalence of osteonecrosis in children with sickle cell disease in Italy"
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT01380197",
+    "title": "Choosing Opioid Management for Pain and Analyzing Acute Chest Syndrome (ACS) Rates Equally",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE3"
+    ],
+    "summary": "The pathophysiology of sickle cell disease (SCD) manifestations, are complex with interactions of intracellular hemoglobin, membrane and endothelial activation but the hallmark remains recurrent and painful vaso-occlusive episodes (VOC). These painful episodes are thought to result from ischemia caused when small blood vessels are occluded by misshapen, inflexible erythrocytes. Painful episodes are the most common cause of hospitalization, morbidity, and impairment for SCD patients. There is no therapy that completely prevents or directly aborts painful events for all patients. Consequently, treatment for acute VOC is primarily supportive using hydration and medicinal pain control. Every pain medication has the potential to relieve pain but is associated with significant limitations and side effects.\n\nThe primary hypothesis to be tested in this double blind, randomized controlled trial is that Nalbuphine is equivalent to morphine for pain control and patients will suffer fewer episodes of acute chest syndrome. The investigators also expect subjects will report fewer side effects from respiratory depression, abdominal distention from reduced peristalsis, reduced histamine release causing pruritis and still be provided adequate pain control. Further hypotheses to be tested is ability to recruit patient participants while being treated in the Emergency Department and that continuous infusion of Nalbuphine with accompanying patient controlled analgesia (PCA) is safe and effective in controlling pain, requiring less total opiates consumption, while decreasing length of hospitalization."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT07488091",
+    "title": "Multi Disciplinary Sickle Cell Disease Obstetrics Care Program in Ghana",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "summary": "The goal of this observational study is to determine the feasibility and effectiveness of initiating a multidisciplinary sickle cell disease (SCD) obstetrics program for women with SCD in a non-academic hospital.\n\nThe main question it aims to answer is: In a before-and-after study design, we will test the hypothesis that multidisciplinary care for pregnant women with SCD in a non-academic hospital will result in a 50% relative risk reduction in mortality compared to the mortality rate in pregnant women with SCD in the same hospital before the multidisciplinary care.\n\nParticipants will be managed using the academic hospital's multidisciplinary sickle cell disease obstetrics protocol adapted for the non-academic hospital"
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04157179",
+    "title": "Cerebral Oxygen Metabolism in Children",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "summary": "The purpose of this research study is to better understand how blood flow and metabolism change can influence brain development in the early decades of life.\n\nWe will examine brain blood flow and metabolism using magnetic resonance imaging (MRI). The brain's blood vessels expand and constrict to regulate blood flow based on the brain's needs. The amount of expanding and contracting the blood vessels can do varies by age. The brain's blood flow changes in small ways during everyday activities, such as normal brain growth, exercise, or deep concentration. Significant illness or psychological stress may increase the brain's metabolic demand or cause other bigger changes in blood flow. If blood vessels are not able to expand to give more blood flow when metabolic demand is high, the brain may not get all of the oxygen it needs. In extreme circumstances, if the brain is unable to get enough oxygen for a long time, a stroke may occur. Sometimes small strokes occur without other noticeable changes and are only detectable on an MRI. These are sometimes called \"silent strokes.\" In less extreme circumstances, not having as much oxygen as it wants may cause the brain to grow and develop more slowly than it should.\n\nOne way to test the ability of blood vessels to expand is by measuring blood flow while breathing in carbon dioxide. Carbon dioxide causes blood vessels in the brain to dilate without increasing brain metabolism.\n\nDuring this study participants may be asked to undergo a blood draw, MRI, and potential neuropsychological assessments. It is also possible that the study team will use a special mask to control the amount of carbon dioxide the participants breathe in so they don't breathe in too much."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04090268",
+    "title": "Precision Exercise in Children With Malignant Hemopathies",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "summary": "In the early years of life and during adolescence, physical activity is crucial for good development of motor skills. It is even more so for those children and young people who are forced to undergo anti-cancer therapies and therefore undergo long periods of hospitalization (often bedridden) and prolonged periods of physical inactivity.\n\nThe research project \"Sport Therapy\" was born with the aim of demonstrating that, through targeted physical activity administered by the sports physician in collaboration with the pediatrician hematologist, it is possible to facilitate the full recovery of these patients, avoiding the high risk of chronic diseases related to a sedentary lifestyle and allowing them to better reintegrate, once healed, in their community of origin (school, sport and social relations).\n\nThe research project \"Sport Therapy\" was born within the Maria Letizia Verga Center at the Pediatric Clinic of the University of Milan Bicocca, at the Foundation for the Mother and Her Child, San Gerardo Hospital in Monza. Every year, around 80 children and adolescents with leukemia, lymphoma or blood disorders leading to bone marrow transplantation are treated here."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04029142",
+    "title": "Screening for Hemoglobinopathies in Pregnant Women",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "This prospective monocentric study project is to identify hemoglobinopathies in pregnant women in order to optimize antenatal care and to investigate the prevalence of hemoglobinopathies in pregnant women in Switzerland."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT02946905",
+    "title": "Neurovascular Determinants of Cognitive Function in Adults With Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "Cognitive impairment is a poorly understood, serious, and emerging complication for adult patients with sickle cell disease. Because there is extensive microvascular damage from oxidative damage in sickle cell disease, the investigators hypothesize that this is also present in the cerebral microvasculature to cause cognitive impairment. The investigators plan to test this by correlating markers of inflammation and oxidative damage with cognitive performance and 7 Tesla brain MRI microvascular findings in these patients, with the long term goal of understanding the mechanisms and risk factors of cognitive impairment in sickle cell disease."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06071377",
+    "title": "Achieving Understanding of the Natural History of Sickle Cell Trait (AUNT)",
+    "status": "RECRUITING",
+    "phase": null,
+    "summary": "The main purpose of this study is to create a longitudinal cohort of those with Sickle Cell Trait (SCT) to better understand the hematologic phenotype for those that carry HbS, assess for differences in those with varying quantities of HbS and assess for potential clinical complications of SCT."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT01048905",
+    "title": "Glutamine Therapy for Hemolysis-Associated Pulmonary Hypertension",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "The primary hypothesis of this study is that glutamine supplementation will improve the erythrocyte glutamine/glutamate ratio, a biomarker of oxidative stress, hemolysis and pulmonary hypertension (PH) in sickle cell disease (SCD) and thalassemia (Thal) patients with PH. PH is defined as a tricuspid regurgitant jet velocity (TRV) on Doppler echocardiography \\> 2.5 m/s. We also predict that glutamine therapy will increase arginine bioavailability and subsequently alter sickle red cell endothelial interaction that can be identified using endo-PAT technology through nitric oxide (NO) generation, leading to changes in biological markers, and clinical outcome. Specifically our second hypothesis is that oral glutamine will decrease biomarkers of hemolysis and adhesion molecules, and improve the imbalanced arginine-to-ornithine ratio that occurs in hemolytic anemias, leading to improved arginine bioavailability and clinical endpoints of endothelial dysfunction and PH in patients with SCD and Thal."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT07116772",
+    "title": "Serial Assessment of Fertility Experiences",
+    "status": "RECRUITING",
+    "phase": null,
+    "summary": "The SAFE study is a long-term research project that watches people with sickle cell anemia (SCA) over time. The main goal is to see how a medicine called hydroxyurea affects their growth, puberty, and ability to have children. A second goal is to see how hydroxyurea affects pregnancy outcomes, by comparing people who take the medicine to those who don't."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06823219",
+    "title": "Long-term Endurance Training in Sickle Cell Disease Patients: Impact on Clinical Profile, Physical Fitness, and Quality of Life.",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "summary": "Sickle cell disease (SCD), the most common genetic disease worldwide and in France, is an inherited haemoglobinopathy characterised by chronic haemolytic anaemia, vaso-occlusive crisis (VOC), acute pain, and multi-organ damage. Due to anaemia and multiple pulmonary, cardiac, endothelial, muscle, and metabolic dysfunctions, fatigue and poor physical capacity are common in SCD patients and constitute the primary reason for a sedentary lifestyle.\n\nHowever, recent findings demonstrated in the first randomised, controlled, and prospective study implementing endurance training in SCD that, when adequately calibrated, regular moderate-intensity endurance training is not only safe but also beneficial for patients (primary outcome: improvement of physical ability).\n\nThis pivotal randomised, controlled, prospective study is designed to prove, on a large multicentre cohort, adult and paediatric, including patients with complications and over a longer period (one year).\n\nThe objective of the study is to demonstrate the efficacy of participating in a program of regular physical activity to reduce the rate of vaso-occlusive crises requiring hospitalisation and to improve physical ability in patients with SCD."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04877054",
+    "title": "Pilot Evaluation of a Motivational Interviewing Intervention Targeting Adherence Behaviors in Youth With Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "Sickle cell disease (SCD) is a group of inherited blood disorders affecting 100,000 individuals in the United States. SCD often leads to complications, including pain crises and organ damage. Many individuals with SCD require medications (e.g., Hydroxyurea or Endari) that research has demonstrated reduce risk of complications and improve quality of life. Despite the need for strong medication adherence, adolescents and young adults (AYAs; 13-25 years) have the lowest adherence rates compared to other age groups. Efforts to reduce AYA non-adherence risk should include youth in earlier childhood and persist throughout the AYA developmental period, with the goal of maintaining adherence throughout childhood and young adulthood. Motivational Interviewing (MI) has been effective in increasing pediatric and adult medication adherence via in-person or telehealth delivery; however, researchers have yet to empirically evaluate MI for feasibility, acceptability, and/or efficacy in improving pediatric/AYA SCD medication adherence. The proposed feasibility trial will provide preliminary feasibility data for a newly developed MI+education intervention targeting medication adherence for pediatric and adolescents and young adults (AYA) patients who have sickle cell disease. This trial will also evaluate study design feasibility to inform a future randomized controlled trial (RCT). The investigators are interested in delivering the intervention to AYA patients and to parents of younger children who have sickle cell disease because the investigators anticipate that establishing strong adherence in younger childhood could prevent future non-adherence during the AYA developmental period. Participants will include 13-22 year-old patients with sickle cell disease as well as parents of 0-22 year-old patients with sickle cell disease. The investigators will randomize ten families to a 4-session telehealth MI+education intervention and five families to a one-session education-only control condition. All participants will complete assessments at three times. Intervention participants will complete the T2 assessment at their last intervention session (week 4-8), and the T3 assessment 16-20 weeks after study enrollment. Education arm participants will complete T2 assessments 4-8 weeks after study enrollment and will complete T3 assessments 16-20 weeks after study enrollment. Primary outcomes include intervention feasibility and acceptability and study design feasibility."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04299594",
+    "title": "Prevalence of Osteoporosis in Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "Sickle cell disease is the most common single-gene disease in the world. Its prevalence is increasing in France, with patients' life expectancy increasing into developed countries. It mainly affects populations originating from sub-Saharan Africa. Among the chronic bone complications associated with sickle cell disease, osteoporosis has previously been highlighted but remains a poorly known complication in this very particular context. A dedicated evaluation of osteoporosis and associated risk factors in sickle cell disease patients living in France may enable better bone management of these patients in the future, as this problem, specific to their disease, is likely to become more frequent as their life expectancy increases.\n\nThis is a prospective interventional and monocentric study whose objective is to describe the prevalence of osteoporosis in black patients with sickle cell disease in France"
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04413539",
+    "title": "Evaluation of Impact of Disease on Quality of Life, Education and Socio-professional Integration of Adults and Parents of Children Living with Sickle- Cell Disease in France",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "Sickle cell disease (SCD) is the most common genetic disease in France. Its consequences on patient's life-course and quality of life need to be precisely identified among French patients and their family to be able to improve patients care according to their specific needs.\n\nThe aim of the study is to accurately describe the impact of SCD on quality of life of patients living in France, or their family (for minor patients). The consequences of the disease on professional life, education and material condition of patients or their parents will be described by the patients themselves."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT01419977",
+    "title": "Treatment of Sickle Cell Patients Hospitalized in Pain Crisis With Prophylactic Dose Low-molecular-weight Heparin (LMWH) Versus Placebo",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "Sickle cell disease (SCD) is one of the most common inherited diseases worldwide and exhibits highest frequency in people of African descent. Patients with SCD currently have few treatment options, with hydroxyurea being the only medication approved to reduce the frequency of vaso-occlusive crisis (VOC) and prevent other SCD complications such as acute chest syndrome. Once patients develop VOC, hospitalizations aim to alleviate pain; no specific therapy is currently available to otherwise affect the course of the VOC. However, there has been increasing interest in the role of coagulation in the pathogenesis of SCD. The investigators hypothesize that low dose anticoagulant therapy, such as prophylactic dose low-molecular-weight heparin (LMWH), could be a novel way to ameliorate the vaso-occlusive process and thereby hasten the resolution of pain."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00000592",
+    "title": "Stroke Prevention in Sickle Cell Anemia (STOP 1)",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE3"
+    ],
+    "summary": "To reduce episodes of first time stroke by 75 percent in children with sickle cell anemia by the administration of prophylactic transfusion therapy."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT07023029",
+    "title": "A Study on the Effect of Etavopivat on Heart Rhythm in Healthy Participants",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE1"
+    ],
+    "summary": "Novo Nordisk is developing a new study medicine, Etavopivat, to treat individuals with sickle cell disease (SCD). The purpose of the study is to determine the effect of Etavopivat on the electrical activity of the heart in healthy participants. The study comprises two parts: Part A and Part B. Part A investigates the safety of a high dose of Etavopivat. In this phase, participants will receive either a single dose of Etavopivat or a placebo. Which treatment the participant gets is decided by chance. In Part B, participants will get four different treatments on four different occasions: Etavopivat in 2 different doses (the new medicine that cannot be prescribed), a dummy medicine (placebo), and an already approved medicine (moxifloxacin). The order of the 4 study medicines is decided by chance. There will be a break of 7 days between each treatment. For Part A, the study duration will be from 10 to 36 days, and for Part B, the study duration will be from 27 to 53 days."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04817345",
+    "title": "Peripheral Blood Stem Cell Collection From Patients With Sickle Cell Disease (SCD) Using Plerixafor",
+    "status": "WITHDRAWN",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "With recent advances in gene editing, gene therapy is becoming a viable curative treatment option for sickle cell disease. In order to do genetic manipulation, investigators need to collect hematopoietic stem cells from patients with sickle cell disease. In this study, investigators want to study the safety and feasibility of collecting peripheral blood stem cells from pediatric and young adult patients with sickle cell disease after administering plerixafor. Studying these peripheral blood stem cells will help in optimizing the yield of peripheral CD34+ cells from pediatric and young adult patients with sickle cell disease, which in turn will help to develop better gene therapies for these patients.\n\nPrimary Objectives\n\n* Determine the safety profile associated with administration of plerixafor in pediatric and young adult patients with sickle cell disease (SCD).\n* To estimate the number of CD34+ cells/kg of body weight that can be collected with peripheral apheresis after administration of plerixafor in pediatric and young adult patients with SCD.\n\nExploratory Objectives\n\n* To describe the kinetics of CD34+ cell mobilization in peripheral blood after - + cells obtained from pediatric and young adult patients with SCD.\n* To study the effect of hydroxyurea therapy on senescence in plerixafor-mobilized CD34+ cells obtained from pediatric and young adult patients with SCD."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00004412",
+    "title": "Phase II Randomized Trial:Arginine Butyrate Plus Standard Local Therapy in Patients With Refractory Sickle Cell Ulcers",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "OBJECTIVES: I. Compare the efficacy of local care alone vs local care plus arginine butyrate in terms of healing rate in patients with refractory sickle cell ulcers.\n\nII. Determine the effect of arginine butyrate therapy on tissue factors related to promotion or inhibition of wound healing in these patients.\n\nIII. Determine whether the regimen used in this study is appropriate for testing in pivotal trials."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00669305",
+    "title": "Bone Marrow for Hemoglobinopathy Research",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "Human participants affected with sickle cell disease or thalassemia will donate bone marrow for use in experimental laboratory models to study potential new treatments. This is an observational study using bone marrow from human participants. The investigators will use sickle cell and thalassemia mouse models to observe and evaluate the possibility of correcting these disorders through genetic alterations or drug treatment."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT03119922",
+    "title": "Quality of Care of Children With Sickle Cell Disease (SCD) Screened at Birth in France",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "The main objective of this study is to evaluate at the national level (France)\n\n* the early healthcare practices for children with sickle cell disease screened at birth,\n* the adequacy of theses practices with the national recommendations,\n* their variability over time and according the characteristics of treatment centers.\n\nWill be studied in particular the diffusion of the latest preventive measures (practice of trans-cranial Doppler and pneumococcal conjugate vaccine) and their link with the residual risks of death, stroke and invasive pneumococcal infections. The study includes all patients born in France between 01/01/2006 and 31/12/2010. Events are recorded and analysed only during the first 5 years of life."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05228821",
+    "title": "Voxelotor Brain Oxygenation and Neurocognitive Study",
+    "status": "WITHDRAWN",
+    "phase": [
+      "PHASE4"
+    ],
+    "summary": "This is an open label, single arm multicenter trial to evaluate the effect of voxelotor treatment on cerebral blood flow (CBF) and neurocognitive function in adolescent and young adult participants (12-30 years of age) with sickle cell disease (SCD)."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT03528434",
+    "title": "Zinc for Infection Prevention in Sickle Cell Anemia (ZIPS)",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "A randomized double-blinded placebo-controlled trial of zinc to reduce the incidence of severe or invasive infections in Ugandan children with sickle cell anemia (SCA)."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00844467",
+    "title": "A Retrospective Epidemiological Study on Pneumococcal Infection in Children in Ministry of Health Hospital at EHSA Region in the Eastern Province",
+    "status": "UNKNOWN",
+    "phase": null,
+    "summary": "The purpose of this study is to establish retrospectively the incidence rates of invasive pneumococcal disease in children aged less than 5 years. The investigators allocate the El Hasa region for the study because it has higher incidence of sickle cell anemia. The study will include data from 2003 to 2007(before introduction of the vaccine) and then for 2008 and 2009 (after introduction of the vaccine)."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04754711",
+    "title": "Interest of Nutritional Care of Children With Sickle Cell Disease on Bone Mineral Density and Body Composition",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "This study is design to assess the effects of an increase in nutritional intake on the bone mineral density of children with sickle cell disease, for 12 months."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00230165",
+    "title": "The Genetics and Functional Basis of Inherited Platelet, White Blood Cell, Red Blood Cell, and Blood Clotting Disorders.",
+    "status": "RECRUITING",
+    "phase": null,
+    "summary": "Blood contains red blood cells, white blood cells, and platelets, as well as a fluid portion termed plasma. We primarily study blood platelets, but sometimes we also analyze the blood of patients with red blood cell disorders (such as sickle cell disease), white blood cell disorders, and disorders of the blood clotting factors found in plasma.\n\nBlood platelets are small cell fragments that help people stop bleeding after blood vessels are damaged. Some individuals have abnormalities in their blood platelets that result in them not functioning properly. One such disorder is Glanzmann thrombasthenia. Most such patients have a bleeding disorder characterized by nosebleeds, gum bleeding, easy bruising (black and blue marks), heavy menstrual periods in women, and excessive bleeding after surgery or trauma. Our laboratory performs advanced tests of platelet function and platelet biochemistry. If we find evidence that a genetic disorder may be responsible, we analyze the genetic material (DNA and RNA) from the volunteer, and when possible, close family members to identify the precise defect."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04015401",
+    "title": "Neuropathic Pain in Jamaicans With Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "Pain is the most common component of the morbidity seen in sickle cell disease (SCD), and may be acute or chronic. It is most commonly acute and a result of the hallmark vaso-occlusive episodes of the disease. Many patients however suffer from chronic pain - defined as pain lasting over three months- with neuropathic pain being a component of chronic pain. Neuropathic pain significantly contributes to the chronicity and morbidity of pain in SCD patients, and is an inadequately managed complication. There is a paucity of literature covering this area, and it has never been examined in the Jamaican population. The main objective of this study is to determine the epidemiology of pain among Jamaicans with SCD, and determine the prevalence of chronic and neuropathic pain among these patients. A second objective is to validate, using gold-standard measures, screening tools to determine neuropathic pain among the study population. This cross-sectional study will investigate the prevalence of neuropathic pain and complications in a sample of persons with SCD in Jamaica aged 14 years and older, with a validation sub-study to be conducted on a random 20 percent of the sample. With improved diagnosis of neuropathic pain, clinicians may potentially improve the management of pain in SCD, as clinicians should be able to direct our treatment toward medications and non-pharmacological methods of pain relief that are more specific for neuropathic pain. All data will be de-identified and maintained in a secure database, with access limited to key personnel. There is very minimal risk to participants."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04053764",
+    "title": "Study Exploring the Effect of Crizanlizumab on Kidney Function in Patients With Chronic Kidney Disease Caused by Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "The goal of the study was to evaluate descriptively the effect of crizanlizumab + standard of care and standard of care alone on renal function in sickle cell disease patients \u2265 16 years with chronic kidney disease due to sickle cell nephropathy."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT03634488",
+    "title": "Management of Severe Acute Malnutrition in SCD, in Northern Nigeria",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "Except for children with HIV, all recommendations for treatment of childhood malnutrition are for children \\< 5 years of age. The overall goal of this randomized controlled nutrition feasibility trial is to identify whether families of children with sickle cell disease (SCD) 5 years and older agree to participate over a 12-week period. The investigators will also establish a safety protocol for monitoring potential complications associated with treating severe malnutrition in children 5 years and older with and without SCD, in a low-resource setting."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00040469",
+    "title": "Bone Marrow Transplant From Related Donor for Patients With High Risk Hemoglobinopathies",
+    "status": "TERMINATED",
+    "phase": [
+      "PHASE2"
+    ],
+    "summary": "The major goal of this study is to determine the risks and benefits of bone marrow transplants in patients with severe thalassemia or sickle cell disease. Participation in this project will be for two years."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT01175083",
+    "title": "Immunization of Children Between 8 Weeks and 2 Years of Age With GSK Pneumococcal Vaccine GSK1024850A",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE3"
+    ],
+    "summary": "The aim of the study is to evaluate the immunogenicity, safety and reactogenicity of GSK Biologicals' pneumococcal conjugate vaccine GSK1024850A.\n\nChildren that are below 6 months at the time of enrolment will also receive the DTPw-HBV/Hib and OPV vaccines."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05258370",
+    "title": "Fibroblast Growth Factor 23 in Chronic Respiratory Failure",
+    "status": "NOT_YET_RECRUITING",
+    "phase": null,
+    "summary": "Fibroblast growth factor 23 (FGF23) is a key hormone of the mineral metabolism produced in bone and acting on the kidney to lower phosphatemia. FGF23 is subject to inactivating proteolytic cleavage which results in the presence of C-terminal and N-terminal fragments heretofore described as inactive.\n\nWe recently showed an increase in FGF23Ct in sickle cell patients, its association with left ventricular mass as well as a direct, pro-hypertrophic effect of FGF23Ct on rat cardiomyocytes. Data from the literature suggest that hypoxia (linked or not to anemia) is responsible for an increase in the production and cleavage of FGF23, either via the hypoxia inducible factor (HIF1\u03b1) or via the increase in erythropoietin (EPO).\n\nWe hypothesize that the FGF23Ct / FGF23i ratio is increased in response to chronic tissue hypoxia, in the absence of anemia, in patients with chronic respiratory failure (CRF) either due to a direct response to hypoxia via the stimulation of HIF1\u03b1, or indirectly via the increase in the circulating concentration of EPO. This elevation, if proven, could contribute to the increased risk of heart disease seen in some populations of CRF.\n\nWe propose to test this hypothesis by assaying FGF23Ct and FGF23i in a cohort of adult CRF patients before and after initiation of oxygen therapy.\n\nThe object of the present study is to study the FGF23Ct / FGF23i ratio in incident patients presenting with a non treated CRF as well as the modifications of this ratio under oxygen therapy and to study the correlations between FGF23 Ct and FGF23 and i) oxygen saturation and PaO2 ii) echocardiographic parameters and iii) EPO concentrations.\n\nThree visits are planned: Baseline (before initiation of oxygen therapy), and two visits after initiation of oxygen therapy, at 3 months (M3) and at 12 months (M12).\n\nFor each visit, anthropometric and clinical data, treatment and biological results will be collected. FGF23 intact , FGF23 C-terminal and Erythropoietin will be measured. A cardiac ultrasound will be performed at baseline and at M12."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06769139",
+    "title": "Evaluation of the Impact of Red Blood Cell Exchange on Thrombo-inflammation in Sickle Cell Disease",
+    "status": "NOT_YET_RECRUITING",
+    "phase": null,
+    "summary": "Sickle cell disease is the most common inherited blood disorder worldwide. It is a hemoglobinopathy characterized by chronic hemolysis, endotheliopathy, coagulation activation, and chronic inflammation. It is a multisystemic disease leading to acute (vaso-occlusive crisis, acute chest syndrome, stroke\u2026) and chronic complications with multiorgan damage. Thrombo-inflammation is defined by the cooperation and interaction between hemostasis and the innate immune system. The platelet represents the cornerstone of this phenomenon, being at the interface of these two systems. In sickle cell disease, platelets are activated and release cytokines, leading to a pro-coagulant and pro-inflammatory state. Transfusion, whether occasional or chronic, is a major sickle cell disease treatment. It is common to distinguish simple transfusion from exchange transfusion. The latter involves replacing a given volume of sickle red blood cells with healthy red blood cells. Exchange transfusion allows avoiding an excessive increase in hemoglobin. The decrease of hemoglobin S under 30% achieved by red blood cell exchange reduces the risk of stroke by more than 90% in children with cerebral vasculopathy. Moreover, transfusion can be used in acute complications such as vaso-occlusive crisis and acute chest syndrome. Despite this efficacy, a subgroup of patients is not totally protected against acute and chronic complications. The persistence of chronic inflammation is suggested. To date, it is not known if red blood cell exchange can reduce the thrombo-inflammatory dynamic in sickle cell disease. The aim of this study is to evaluate the impact of red blood cell exchange on thrombo-inflammatory parameters in 20 adult sickle cell patients (10 patients on manual exchange and 10 patients on automatized exchange)."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06731036",
+    "title": "Expanded Access to CD34+ Selection Utilizing Miltenyi CliniMACS Prodigy\u00ae for Patients Receiving Peripheral Blood Stem Cell Transplantations and Stem Cell Boosts",
+    "status": "AVAILABLE",
+    "phase": null,
+    "summary": "Allogeneic stem cell transplantation (alloSCT) is utilized for various underlying diseases. AlloSCT is limited by graft versus host disease (GVHD), graft rejection, viral infections, and post-transplant lymphoproliferative disorders. To mitigate graft versus host disease, graft manipulation has been taking place with CD34+ selection to decrease T-cells entering into the patient, thus lowering the risk of GVHD.\n\nHistorically CD34+ manipulation has been performed under a humanitarian use device by utilizing the Miltenyi CliniMACs CD34 Reagent System. This was used for patients with AML in first remission. This approach has additionally been used for patients with sickle cell disease, immune deficiencies, and poor graft function with excellent efficiency. The purpose of this protocol is to create expanded access of CD34+ manipulation for various underlying diseases utilizing the Miltenyi CliniMACS Prodigy\u00ae device."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00784082",
+    "title": "Inflammatory Response to Hydroxyurea Therapy in Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "In sickle cell disease (SCD), polymerisation of haemoglobin S and the resulting shape change of the red blood cells (RBC) lead to vascular occlusion and severe painful crises. Permanent inflammatory state and abnormal RBC adhesion to the endothelium trigger these phenomenon. Hydroxyurea (HU) is the only drug that has been shown to reduce clinical severity of SCD, and this was initially attributed to the stimulation of foetal haemoglobin (HbF). However, the clinical response does not correlate consistently with the degree and time of HbF increment, suggesting that HU clinical benefits may involve other mechanisms such as the induction of natural anti-inflammatory response via the hypothalami-pituitary-adrenal axis."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04624659",
+    "title": "A Study of Etavopivat in Adults and Adolescents With Sickle Cell Disease (HIBISCUS)",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "PHASE3"
+    ],
+    "summary": "This clinical trial is a Phase 2/3 study that will evaluate the efficacy and safety of etavopivat and test how well etavopivat works compared to placebo to improve the amount of hemoglobin in the blood and to reduce the number of vaso-occlusive crises (times when the blood vessels become blocked and cause pain)."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05993689",
+    "title": "Building TrUst and UNiting Teams Through DouLa partnErship - BUNDLE",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "summary": "The BUNDLE study is a prospective mixed-methods study focused on the early integration of community doula into prenatal care. The study will have three phases: Phase 1 is the qualitative phase of conducting focus groups with Black/African American (AA) birthing people and with medical and community healthcare providers to elicit feedback on how best to integrate community-based doulas and obstetricians into one united model of prenatal care to promote trust and improved maternal health outcomes. Phase 2 tests the effectiveness of the newly developed model on healthcare engagement, trust, and adverse maternal outcomes using randomized control trial of 412 Black/AA pregnant participants. Phase 3 is dissemination of BUNDLE findings in scholarly and community-based forums, including with healthcare leaders and policy makers in Wisconsin, advocating for doula coverage and health system sustainability of the integrated model."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04606160",
+    "title": "Utilizing A Single Session Problem-Solving Intervention With Caregivers of Pediatric Patients Receiving Chronic Transfusion to Treat Sickle Cell Disease",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "This study seeks to utilize an innovative approach of a single session problem-solving intervention to address psychosocial factors affecting patient outcomes within the pediatric sickle cell population. The study will be a randomized control trial of a single session problem-solving intervention.\n\nThis original research will investigate the feasibility and efficacy of utilizing a single-session problem-solving intervention to address problems affecting children and families receiving chronic blood transfusions for sickle cell disease in order to: 1) contribute to literature related to single session problem solving interventions with the chronic transfusion sickle cell population and 2) identify a model of sustainable care that reduces the burden of a multiple session intervention and increases access to services. Additionally, this research aims to provide relatively low burden and potentially highly effective intervention into regular care for this population in order to evaluate the feasibility of integrating a single-session problem solving intervention into routine clinical flow, thereby addressing needs more systematically that have been identified by families. Further, this research aims to identify potential utility of medical providers being trained on providing the intervention, which could be part of a future study."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT00977691",
+    "title": "Haploidentical PBMC Transplant for Severe Congenital Anemias",
+    "status": "ACTIVE_NOT_RECRUITING",
+    "phase": [
+      "PHASE1",
+      "PHASE2"
+    ],
+    "summary": "Background:\n\nBone marrow transplantation (BMT), which involves transplanting a donor's marrow stem cells, is capable of curing some congenital anemias. BMT usually involves high-intensity treatment with chemotherapy and radiation to kill abnormal cells, which affects all systems of the body.\n\nPeople with anemias often have damage to other organs such as the kidneys, which can be further damaged by the chemotherapy. Only approximately 20 percent of patients have a full-matched donor, making treatment for many people with anemias unavailable. However, 90 percent of patients may have a half-matched donor, but using a half-matched donor increases the toxicity of BMT.\n\nObjectives:\n\nTo determine if a research BMT with half-matched donor cells, low-intensity radiation, immunosuppressant drugs, and no chemotherapy will be effective in patients with sickle cell disease and Beta-thalassemia.\n\nTo determine the effectiveness of cyclophosphamide, an immunosuppressant drug, in preventing rejection of the donor cells.\n\nEligibility:\n\nRecipients are individuals at least 18 years of age who have been diagnosed with sickle cell disease and Beta-thalassemia, and who have a family member who is a haploidentical (i.e., half match) tissue match.\n\nDonors are healthy individuals between the ages of 2 and 80 who are found to be suitable donors.\n\nDesign:\n\nDonors will undergo apheresis, which involves withdrawing blood from one arm vein, passing it through a machine that removes bone marrow stem cells, and returning the remaining blood through the vein in the other arm. Donors will receive a drug that causes the stem cells to be released into the bloodstream prior to the apheresis procedure.\n\nRecipients will undergo routine physical and laboratory examinations, including bone marrow sampling at the beginning of the study. After transplantation, physical and laboratory examinations will occur on a weekly or twice weekly basis at the outpatient clinic. Recipients will be examined every 6 months starting 100 days posttransplant for 5 years.\n\nRecipients will receive low-dose radiation in two treatments 1 and 2 days before the transplant. They will also be given immunosuppressant therapy with alemtuzumab and sirolimus. Another immunosuppressant drug, cyclophosphamide, will be given in the future as needed to subsets of the recipients to prevent rejection of donor cells.\n\nRecipients will receive the donor stem cells through a previously inserted central line. The process takes up to 8 hours.\n\nRecipients will receive blood transfusions as necessary to prevent anemia and bleeding during the posttransplant period. They may also receive intravenous antibiotics to prevent infection."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT03880591",
+    "title": "Neonatal Hyperbilirubinaemia in the Democratic Republic of Congo",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "Neonatal hyperbilirubinaemia (NH) is common among healthy neonates and normally resolves within a week. Untreated pathological hyperbilirubinaemia, however, can result in long-term neurological sequelae, which compromise childhood development, or may result in perinatal death. True population-based data from middle to low-income countries are scarce and NH contribution to morbidity and mortality remains unclear. With this study the investigators aim at assessing the prevalence of neonatal hyperbilirubinaemia in a cohort of newborns in a maternity hospital in Kinshasa, the Democratic Republic of Congo, and at evaluating the possible risk factors for NH in the mother and the baby."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT07090668",
+    "title": "Trans-auricular Nerve Stimulation as an Innovative Approach to the Treatment of Pain in Pediatric Patients Suffering From Sickle Cell Disease",
+    "status": "RECRUITING",
+    "phase": [
+      "NA"
+    ],
+    "summary": "The goal of this study is to evaluate the effects of transauricular vagus and trigeminal nerve stimulation on the treatment of pain in children with Sickle Cell Disease.\n\n* The primary objective is to determine the feasibility of using a tAN device to treat pain in pediatric participants with SCD by assessing the completion rate, stimulation tolerability, and acceptability of the intervention measures.\n* The secondary objective is to assess the preliminary efficacy of using a tAN device as a remedy for pain in pediatric SCD subjects by analyzing inflammatory serum biomarker levels, the Functional Status Scale (FSS), the Wong-Baker FACES questionnaire, tracking analgesic consumption, and other assessments."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT01940718",
+    "title": "Androgen Regulation of Priapism in Sickle Cell Disease",
+    "status": "WITHDRAWN",
+    "phase": [
+      "EARLY_PHASE1"
+    ],
+    "summary": "It is believed that when androgen (testosterone) levels are below normal there is a disturbance of normal bodily functioning that is associated with priapism in some men. Conversely, it is believed that testosterone replacement will improve the condition of priapism when the testosterone levels are brought to normal. In turn, this will also improve psychological well being in men with sickle cell disease (SCD)."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT04629430",
+    "title": "Effects of Prebiotics on Gut Microbiome in Patients Undergoing HSCT",
+    "status": "COMPLETED",
+    "phase": [
+      "NA"
+    ],
+    "summary": "The purpose of this study is to see whether hematopoietic stem cell transplant (HSCT) patients can consistently eat a diet rich in prebiotics. This type of diet may be helpful in maintaining diversity in the gastrointestinal (GI) system and therefore potentially decreasing risk of other GI problems."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT03253211",
+    "title": "Disseminating NIH Evidence Based Sickle Cell Recommendations in North Carolina",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "This project will improve the efficiency and quality of healthcare for persons with sickle cell disease, an under-served and at risk population by implementing a co-management model of care. Many patients with sickle cell disease (SCD) receive care primarily from specialty physicians and emergency departments (ED), thus resulting in a lack of primary care and a high number of ED visits and hospitalizations. The goal is to improve PCP and SCD specialist co-management. The overall purpose of this dissemination project is to evaluate utilization data, as well as patient and provider reported outcomes associated with the dissemination of a toolbox of decision support tools to PCP's and ED providers across NC and SC."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05153044",
+    "title": "Severe Acute Respiratory Syndrome CoV 2 COVID-19 Survey and Vaccination Coverage in the Sickle Cell Population in Ile-De-France",
+    "status": "UNKNOWN",
+    "phase": [
+      "NA"
+    ],
+    "summary": "The objective of this study is to determine the seroprevalence of severe acute respiratory syndrome-CoV-2 in unvaccinated sickle cell patients living in an area with high viral circulation and at risk of high viral transmission, after the 4th epidemic wave of COVID-19 in Ile-de -France, over a period of 3 months (for example, last quarter of 2021)."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06443034",
+    "title": "Predictive Determinants of Nephrotic Syndrome Remission in Patients With At-risk Polymorphism of APOL1",
+    "status": "NOT_YET_RECRUITING",
+    "phase": null,
+    "summary": "This is a multicentric retrospective observational cohort study.\n\nAs primary objective, the study aims to evaluate the factors associated with nephrotic syndrome remission in patient with nephrotic syndrome, biopsy-prove minimal change disease or focal segmental glomerulosclerosis, and an at-risk variant of the APOL1 gene.\n\nAs secondary objectives, this study aims:\n\n* To evaluate the benefit of corticosteroids in obtaining the remission of nephrotic syndrome\n* To identify the predictors of complete renal remission of nephrotic syndrome\n* To evaluate the benefit of corticosteroids in reducing the incidence of end-stage renal disease\n* To assess the adverse events of corticosteroids in patients treated with corticosteroids."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06620887",
+    "title": "HEMAGO Monitoring and Impact on the Occurrence of Complications During Pregnancy in Sickle Cell Patients",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "Sickle cell disease is the most common monosemic genetic disease in the world and affects approximately 32,000 people in France. In recent years, improvements in the management of this pathology have led to a steady increase in the life expectancy of sickle cell patients.\n\nWomen with sickle cell disease are increasingly likely to have one or more pregnancies.\n\nSeveral studies have shown that these pregnancies are marked by maternal morbidity due to acute sickling crises, thromboembolism, infection, chronic end-organ dysfunction, or pre-eclampsia (PE), while neonatal outcomes may be intrauterine growth retardation (IUGR), preterm delivery, small infants for gestational age, stillbirth, and neonatal death.\n\nConsequently, monitoring pregnancies in sickle cell patients represents a complex medical challenge due to the risk of potentially serious maternal and fetal complications. Multidisciplinary follow-up is then crucial to monitor and manage these possible complications.\n\nThe double hematologist-obstetrician consultation program (HEMAGO) offers complete and adapted close follow-up, in order to minimize the risks for the mother and the unborn child.\n\nThis study aims to evaluate the impact of this HEMAGO monitoring on the various maternal and obstetric complications by comparing the outcome of pregnancies of patients who were followed before the implementation of this device to patients who were followed in the frame their pregnancy through this program."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT01905787",
+    "title": "Sickle Cell Anemia - A Comparative Study Between Three Ethnical Communities, a Multicenter Study",
+    "status": "UNKNOWN",
+    "phase": null,
+    "summary": "The purpose of this study is to take advance of the presence of two different cohorts of SCA patients in one country, the first group included SCA patients from Bedouin Arab origin that lives in Israel for more than one century and originally comes from African countries or Saudi Arabia, those patients lives in north east Israel and are treated at the Hematology Unit of the Emek Medical Center, the second group are SCA patients from African origin that come to Israel in the last decades and belong to original African population, this group receive treatment at the Pediatric Hematology Unit, Dana Children's Hospital, Ichilov Medical Center. A third group is a cohort of SCA patients treated at Schneider Children's Hospital Hematology Unit. Those patients belong also to the Israel Arab population and patients from a village that African Muslims live for many years. The characteristics of the three groups will be compared to the characteristics of a fourth group, a cohort of Afro-American SCA patients that are followed up and treated at the Pediatric Hematology Unit, Detroit Children's Medical Center, Detroit, Michigan, USA."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT01411280",
+    "title": "Ameliorating Attention Problems in Children With Sickle Cell Disease (SCD)",
+    "status": "COMPLETED",
+    "phase": [
+      "PHASE3"
+    ],
+    "summary": "The purpose of this study is to assess whether methylphenidate is effective in enhancing the cognitive performance of children with the HbSS or HbSC genotype of SCD who have sustained neurological complications on laboratory-based measures of sustained attention, reaction time, and executive functions, and indirectly, verbal short-term and long-term memory."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06615024",
+    "title": "Screening of Coexistence Between Sickle Cell Anaemia and G6PD Deficiency",
+    "status": "NOT_YET_RECRUITING",
+    "phase": null,
+    "summary": "G6PD deficiency may have a subtle effect on the severity of hemolysis and also worsen the degree of anaemia in SCD when the two disorders coexist. Therefore, selective decision should be taken in patients in whom the two conditions coexist in the choice of drug and in the treatment of infections.The prevalence of the G-6-PD deficiency is high in SCD patients, but does not differ from that observed among non-SCD subjects .However, the G-6-PD deficiency appears to worsen the clinical features of SCD, there were more hospitalizations, major vaso-occlusive crises among G-6-PD deficient sickle cell patients."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT06647979",
+    "title": "Hematopoietic Stem Cell BCL11A Enhancer Gene Editing for Severe \u03b2-Hemoglobinopathies",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE1"
+    ],
+    "summary": "A promising approach for the treatment of genetic diseases is called gene therapy. Gene therapy is a relatively new field of medicine that uses genetic material (mostly DNA) from the patient to treat his or her own disease. In gene therapy, the investigators introduce new genetic material in order to fix or replace a diseased gene, with the goal of curing the disease. The procedure is similar to a bone marrow transplant, in that the patient's malfunctioning blood stem cells are reduced or eliminated using chemotherapy, but it is different because instead of using a different person's (donor) blood stem cells for the transplant, the patient's own blood stem cells are given back after the new genetic material has been introduced into those cells. This approach has the advantage of eliminating any risk of Graft-Versus-Host Disease (GVHD), reducing the risk of graft rejection, and may also allow less chemotherapy to be utilized for the conditioning portion of the transplant procedure. The method used to fix or replace a diseased gene is called gene editing. A person's own cells are edited using a specialized biological medicine that has been formulated for use in human beings.\n\nFetal hemoglobin (HbF) is a healthy, non-sickling kind of hemoglobin. Investigators have recently discovered a gene called BCL11A that is very important in the control of fetal hemoglobin expression. Increasing the expression of this gene in sickle cell patients could increase the amount of fetal hemoglobin while simultaneously reducing the amount of sickle hemoglobin in their blood, and therefore potentially cure the condition."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT01783990",
+    "title": "Pediatric Hydroxyurea Phase III Clinical Trial (BABY HUG) Follow-up Observational Study II Protocol",
+    "status": "COMPLETED",
+    "phase": null,
+    "summary": "The BABY HUG Treatment Study was designed to see if treatment with the drug hydroxyurea (also called HU) in children with sickle cell disease could prevent organ damage, especially in the spleen and kidneys. There was also a chance that treatment could prevent painful crises, lung disease, stroke, and blood infection."
+  },
+  {
+    "disease": "Sickle Cell Disease",
+    "nct_id": "NCT05312879",
+    "title": "Phase 2/3 Adaptive Study of VX-147 in Adult and Pediatric Participants With APOL1-Mediated Proteinuric Kidney Disease",
+    "status": "RECRUITING",
+    "phase": [
+      "PHASE2",
+      "PHASE3"
+    ],
+    "summary": "The purpose of this study is to evaluate the efficacy, safety, tolerability, and pharmacokinetics (PK) of VX-147 in adult and pediatric participants with apolipoprotein L1 (APOL1)-mediated proteinuric kidney disease."
+  }
+]
